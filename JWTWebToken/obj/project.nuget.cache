@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E8hbx6DSf3vTNFNHVnwPpUL7Gghxn79fMV/iGeIRrXuJZmhhbxdh9gC910mZF6TZLz4vMPuzoXv5u7d3pIywZw==",
+  "dgSpecHash": "d2+ZtV6Nl8pfJzq49L+w4U3m8H9Dm4ecvzW62AlGVGVrUtJqwxeKXpDYISq3tyAO7Wp366MyWt1bDfkwVU6ZbA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nspira\\source\\repos\\JWTWebToken\\JWTWebToken\\JWTWebToken.csproj",
+  "projectFilePath": "F:\\TaskManager\\JWTWebTokenGeneration_Consuming_CoreAPI\\JWTWebToken\\JWTWebToken.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nspira\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.8\\microsoft.aspnetcore.authentication.jwtbearer.6.0.8.nupkg.sha512",
     "C:\\Users\\Nspira\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

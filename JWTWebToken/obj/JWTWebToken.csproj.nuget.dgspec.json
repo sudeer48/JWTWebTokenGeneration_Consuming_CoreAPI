@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nspira\\source\\repos\\JWTWebToken\\JWTWebToken\\JWTWebToken.csproj": {}
+    "F:\\TaskManager\\JWTWebTokenGeneration_Consuming_CoreAPI\\JWTWebToken\\JWTWebToken.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nspira\\source\\repos\\JWTWebToken\\JWTWebToken\\JWTWebToken.csproj": {
+    "F:\\TaskManager\\JWTWebTokenGeneration_Consuming_CoreAPI\\JWTWebToken\\JWTWebToken.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nspira\\source\\repos\\JWTWebToken\\JWTWebToken\\JWTWebToken.csproj",
+        "projectUniqueName": "F:\\TaskManager\\JWTWebTokenGeneration_Consuming_CoreAPI\\JWTWebToken\\JWTWebToken.csproj",
         "projectName": "JWTWebToken",
-        "projectPath": "C:\\Users\\Nspira\\source\\repos\\JWTWebToken\\JWTWebToken\\JWTWebToken.csproj",
+        "projectPath": "F:\\TaskManager\\JWTWebTokenGeneration_Consuming_CoreAPI\\JWTWebToken\\JWTWebToken.csproj",
         "packagesPath": "C:\\Users\\Nspira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nspira\\source\\repos\\JWTWebToken\\JWTWebToken\\obj\\",
+        "outputPath": "F:\\TaskManager\\JWTWebTokenGeneration_Consuming_CoreAPI\\JWTWebToken\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nspira\\AppData\\Roaming\\NuGet\\NuGet.Config",
