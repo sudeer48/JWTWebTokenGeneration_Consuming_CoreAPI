@@ -35,5 +35,13 @@ namespace JWTWebToken.Controllers
             return null;
         }
 
+        [Authorize]
+        [HttpGet]
+        [Route("TestToken")]
+        public IActionResult TestToken()
+        {
+            return Ok("Token Ok");
+        }
+
     }
 }
